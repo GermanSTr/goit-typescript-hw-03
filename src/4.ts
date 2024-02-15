@@ -57,4 +57,4 @@ const person = new Person(key, "Archi");
 house.openDoor(person.getKey());
 house.comeIn(person);
 
-// export {};
+export {};
